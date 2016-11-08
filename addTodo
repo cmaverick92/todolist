@@ -1,0 +1,4 @@
+function addTodo(todo) {
+todos.push(todo);
+displayTodos(); 
+}
