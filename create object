@@ -1,0 +1,6 @@
+var chapin = {
+  name: 'Chapin', 
+  sayName: function() {
+    console.log(this.name);
+  }
+}
