@@ -15,7 +15,7 @@ function addTodo(todo) {
 
 //It should have a function to change todos
 
-function spliceTodo(position, newValue) {
+function changeTodo(position, newValue) {
   todos[position] = newValue;
   displayTodos();
 }
