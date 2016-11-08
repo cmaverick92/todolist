@@ -1,0 +1,3 @@
+function displayTodos() {
+console.log('My Todos:', todos);
+}
